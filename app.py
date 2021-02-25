@@ -1,3 +1,3 @@
 
 def soma(a,b):
-    return a + b
+    return float(a) + float(b)
