@@ -1,3 +1,7 @@
+
+
+[![Build Status](https://travis-ci.org/fredslz/calc10.svg?branch=main)](https://travis-ci.org/fredslz/calc10)
+
 # calc10
 Calculadora Python Básica - Teste TDD, CI e CD By Frederico
 
